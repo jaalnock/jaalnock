@@ -1,6 +1,10 @@
 # 💫 About Me:
 🔭 I’m currently working on Portfolio Project !<br>👯 I’m looking to collaborate on web development projects !<br>🤝 I’m looking for help with Java Development !<br>🌱 I’m currently learning DSA and Development !<br>💬 Ask me about anything !<br>⚡ Fun fact : Nothing can stop me !
 
+### 🐍 Watch my GitHub contribution snake
+![Snake animation](https://jaalnock.github.io/github-snake/snake.svg)
+
+
 ![](https://komarev.com/ghpvc/?username=ranjeetkumbhar01&color=green)
 
 ## 🌐 Socials:
