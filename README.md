@@ -14,5 +14,9 @@
 ### 👁️ Views
 ![](https://komarev.com/ghpvc/?username=jaalnock&color=blue&style=plastic)
 
+### 📊 GitHub Stats:
+<!-- ![](https://github-readme-stats.vercel.app/api?username=jaalnock&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/> -->
+![](https://github-readme-streak-stats.herokuapp.com/?user=jaalnock&theme=radical&hide_border=false)<br/>
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&cacheBust=${Math.random()})
